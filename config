@@ -1,6 +1,8 @@
 confirm-close-surface = false
 keybind = shift+enter=text:\n
 bold-is-bright = true
+keybind = cmd+shift+left_bracket=previous_tab
+keybind = cmd+shift+right_bracket=next_tab
 
 # ~/.config/ghostty/config — iTerm2 Default Dark
 
