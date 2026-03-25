@@ -25,6 +25,7 @@ The palette mirrors iTerm2's default dark theme:
 
 - `Cmd+Shift+[` / `Cmd+Shift+]` — Navigate between tabs (matches iTerm2 defaults)
 - `Shift+Enter` — Insert literal newline
+- `Ctrl+C` — Send interrupt signal (`\x03`)
 
 ## Other Settings
 
